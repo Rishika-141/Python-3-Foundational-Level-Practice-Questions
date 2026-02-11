@@ -7,34 +7,29 @@ For each program, the problem statement is written as a comment before the code,
 📌 Topics Covered
 
 Week 1
-
 Basics of Python syntax
-
 Input and Output (input(), print())
-
 Numbers and arithmetic operations
-
 Strings and basic string operations
 
 Week 2
-
 Conditional statements (if, elif, else)
-
 Comparison operators
-
 Logical operators
-
 Decision-based practice questions
 
 Week 3
-
 Loops (for and while)
-
 Iteration-based logic
-
 Loop control and basic patterns
-
 Repetitive problem-solving exercises
+
+Week 4
+List-based problem solving
+Creating, indexing, slicing, and updating lists
+List methods and operations
+Iterating over lists
+Problems focused entirely on list manipulation and list-driven logic
 
 📝 Code Structure
 
