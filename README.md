@@ -1,71 +1,85 @@
-Python Foundations – Practice Questions
+📘 PYTHON FOUNDATIONS – PRACTICE QUESTIONS
 
-This repository contains Python foundational practice questions, including IIT Madras BS foundational level questions, focused on building core programming logic and understanding basic Python concepts through hands-on coding.
+A structured, hands-on learning journey through core Python concepts.
 
-For each program, the problem statement is written as a comment before the code, followed by its implementation.
+Inspired by foundational practice material from the
+IIT Madras BS Program, this repository showcases my week-by-week progress as I build programming fundamentals with clarity and consistency.
 
-📌 Topics Covered
+Each problem includes a commented description followed by a clean, beginner-friendly Python solution.
 
-Week 1
+🔹 WEEK 1 — THE BASICS
+Week 1 – Python Syntax, I/O & Simple Operations
 
-Basics of Python syntax
+Foundational introductions to:
 
-Input and Output (input(), print())
+- Core Python syntax
+- Input & output (input(), print())
+- Arithmetic operations
+- Strings and basic string handling
 
-Numbers and arithmetic operations
+🔹 WEEK 2 — DECISION MAKING
+Week 2 – Conditionals
 
-Strings and basic string operations
+Logic-building through branching:
 
-Week 2
+- if, elif, else
+- Comparison operators
+- Logical operators
+- Real-world decision-making problems
 
-Conditional statements (if, elif, else)
+🔹 WEEK 3 — LOOPS & ITERATION
+Week 3 – Iteration
 
-Comparison operators
+Repetition and control flow structures:
 
-Logical operators
+- for loops
+- while loops
+- Loop control (break, continue)
+- Basic patterns and iteration-based exercises
 
-Decision-based practice questions
+🔹 WEEK 4 — LISTS & DATA SEQUENCING
+Week 4 – Lists Only
 
-Week 3
+A dedicated week of list-focused problems:
 
-Loops (for and while)
+- List creation and updates
+- Indexing, slicing, nested lists
+- Common methods (append, sort, etc.)
+- Iterating over lists
+- Exercises centered solely on list logic (Matrices Problems)
 
-Iteration-based logic
+🔹 WEEK 5 — FUNCTIONS & MODULAR THINKING
+Week 5 – Functions & Calling Functions
 
-Loop control and basic patterns
+Modular, reusable programming design:
 
-Repetitive problem-solving exercises
+- Defining functions with def
+- Building multiple separate functions
+- Parameters & return values
+- Calling functions cleanly
+- Structuring solutions using modular logic
+  (No nested functions — focus on clarity.)
 
-Week 4
+📝 CODE STRUCTURE
 
-List-based problem solving
+Each file includes:
 
-Creating, indexing, slicing, and updating lists
+- Multiple weekly practice questions
+- Problem statements as comments
+- Clean, readable implementations
+- Gradual progression of logic and difficulty
 
-List methods and operations
+🎯 PURPOSE OF THIS REPOSITORY
 
-Iterating over lists
+This project helps reinforce:
 
-Problems focused entirely on list manipulation and list-driven logic
+- Python fundamentals
+- Logical & algorithmic thinking
+- Clean, modular coding habits
+- A consistent track of learning progress
+- Preparation for interviews & real-world coding tasks
+- How to solve mini games like "Random Guessing Number" using Python
 
+🔄 ONGOING UPDATES
 
-📝 Code Structure
-
-Each file includes multiple practice problems
-
-Questions are written as comments before the code
-
-Code is written in a clear and readable format for easy understanding
-
-
-🎯 Purpose of This Repository
-
-Strengthen Python fundamentals
-
-Improve logical thinking through practice
-
-Maintain a structured record of learning
-
-Support future interview preparation
-
-📍 This repository reflects my learning progress and will be updated as I move forward.
+I will continue updating this repository as I learn more — adding new weeks, refining code, and expanding the practice set.
